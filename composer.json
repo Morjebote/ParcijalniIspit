@@ -1,0 +1,5 @@
+{
+    "require": {
+        "umpirsky/country-list": "^2.0"
+    }
+}
